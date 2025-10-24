@@ -23,3 +23,9 @@ pip install -r requirements.txt
 ```
 ### 3. Run Notebook
 เปิดไฟล์ Bank_Prediction.ipynb ใน Google Colab หรือ Jupyter Notebook
+
+## Environment
+- Python 3.11+
+- Libraries: ดูใน `requirements.txt`
+
+**ก่อนรัน notebook ต้องติดตั้ง dependencies ทั้งหมดด้วย `pip install -r requirements.txt`**
