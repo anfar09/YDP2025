@@ -15,4 +15,4 @@
 ### 1. Clone Repo
 ```bash
 git clone https://github.com/anfar09/YDP2025
-cd repo
+cd YDP2025
