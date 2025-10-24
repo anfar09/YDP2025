@@ -16,3 +16,8 @@
 ```bash
 git clone https://github.com/anfar09/YDP2025
 cd YDP2025
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+### 3. Run Notebook
+เปิดไฟล์ Bank_Prediction.ipynb ใน Google Colab หรือ Jupyter Notebook
