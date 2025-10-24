@@ -14,7 +14,7 @@
 ## Getting Started
 ### 1. Clone Repo
 ```bash
-git clone https://github.com/anfar09/YDP2025
+git clone https://github.com/anfar09/YDP2025.git
 cd YDP2025
 ```
 ### 2. Install Dependencies
@@ -26,6 +26,6 @@ pip install -r requirements.txt
 
 ## Environment
 - Python 3.11+
-- Libraries: ดูใน `requirements.txt`
+- Libraries ดูใน `requirements.txt`
 
 **ก่อนรัน notebook ต้องติดตั้ง dependencies ทั้งหมดด้วย `pip install -r requirements.txt`**
